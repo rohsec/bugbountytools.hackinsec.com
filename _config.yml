@@ -1,8 +1,10 @@
-title: Just the Docs Template
+title: HackinSec Tools
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
-
+logo: https://dorks.hackinsec.com/HACKINSEC-11-16-2023.gif
+color_scheme: dark
+favicon_ico: https://dorks.hackinsec.com/HACKINSEC-11-16-2023.gif
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  𝝘𝝝𝝜𝗦𝝨𝗖: https://x.com/rohsec
